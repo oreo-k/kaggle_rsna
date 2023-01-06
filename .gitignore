@@ -1,3 +1,4 @@
 # directory and file name list to be ignored by managin git
 
-data/
+input/
+protos/
