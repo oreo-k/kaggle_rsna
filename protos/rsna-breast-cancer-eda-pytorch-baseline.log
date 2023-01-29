@@ -1,0 +1,123 @@
+[{"stream_name":"stdout","time":27.58078313,"data":"\u001b[31mERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.\r\n"}
+,{"stream_name":"stdout","time":27.58083451,"data":"easyocr 1.6.2 requires opencv-python-headless\u003c=4.5.4.60, but you have opencv-python-headless 4.7.0.68 which is incompatible.\u001b[0m\u001b[31m\r\n"}
+,{"stream_name":"stdout","time":27.58084276,"data":"\u001b[0m\u001b[33mWARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv\u001b[0m\u001b[33m\r\n"}
+,{"stream_name":"stdout","time":30.175217494,"data":"\u001b[0m\u001b[1m\u001b[91mNotebook Color Schemes:\u001b[0m\n"}
+,{"stream_name":"stderr","time":85.307307795,"data":"\r  0%|          | 0/54706 [00:00\u003c?, ?it/s]\r  1%|▏         | 684/54706 [00:00\u003c00:07, 6835.20it/s]\r  3%|▎         | 1400/54706 [00:00\u003c00:07, 7020.96it/s]\r  4%|▍         | 2117/54706 [00:00\u003c00:07, 7088.77it/s]\r  5%|▌         | 2826/54706 [00:00\u003c00:07, 7081.06it/s]\r  6%|▋         | 3535/54706 [00:00\u003c00:07, 6969.95it/s]\r  8%|▊         | 4233/54706 [00:00\u003c00:07, 6907.14it/s]\r  9%|▉         | 4948/54706 [00:00\u003c00:07, 6982.53it/s]\r 10%|█         | 5647/54706 [00:00\u003c00:07, 6906.89it/s]\r 12%|█▏        | 6338/54706 [00:00\u003c00:08, 5728.08it/s]\r 13%|█▎        | 6943/54706 [00:01\u003c00:09, 5221.31it/s]\r 14%|█▎        | 7492/54706 [00:01\u003c00:09, 4968.04it/s]\r 15%|█▍        | 8007/54706 [00:01\u003c00:09, 4807.10it/s]\r 16%|█▌        | 8500/54706 [00:01\u003c00:09, 4658.33it/s]\r 16%|█▋        | 8995/54706 [00:01\u003c00:09, 4734.12it/s]\r 17%|█▋        | 9499/54706 [00:01\u003c00:09, 4815.29it/s]\r 18%|█▊        | 10014/54706 [00:01\u003c00:09, 4908.36it/s]\r 19%|█▉        | 10510/54706 [00:01\u003c00:10, 4226.57it/s]\r 20%|██        | 10951/54706 [00:02\u003c00:11, 3708.17it/s]\r 21%|██        | 11343/54706 [00:02\u003c00:13, 3333.85it/s]\r 22%|██▏       | 11793/54706 [00:02\u003c00:11, 3608.41it/s]\r 22%|██▏       | 12251/54706 [00:02\u003c00:11, 3851.36it/s]\r 23%|██▎       | 12694/54706 [00:02\u003c00:10, 4001.58it/s]\r 24%|██▍       | 13345/54706 [00:02\u003c00:08, 4689.13it/s]\r 26%|██▌       | 14054/54706 [00:02\u003c00:07, 5363.45it/s]\r 27%|██▋       | 14761/54706 [00:02\u003c00:06, 5851.78it/s]\r 28%|██▊       | 15458/54706 [00:02\u003c00:06, 6175.04it/s]\r 30%|██▉       | 16173/54706 [00:03\u003c00:05, 6459.70it/s]\r 31%|███       | 16893/54706 [00:03\u003c00:05, 6676.68it/s]\r 32%|███▏      | 17610/54706 [00:03\u003c00:05, 6821.90it/s]\r 34%|███▎      | 18329/54706 [00:03\u003c00:05, 6931.08it/s]\r 35%|███▍      | 19057/54706 [00:03\u003c00:05, 7033.80it/s]\r 36%|███▌      | 19763/54706 [00:03\u003c00:04, 7029.11it/s]\r 37%|███▋      | 20468/54706 [00:03\u003c00:04, 7029.56it/s]\r 39%|███▊      | 21173/54706 [00:03\u003c00:04, 6807.48it/s]\r 40%|███▉      | 21857/54706 [00:03\u003c00:05, 6402.49it/s]\r 41%|████▏     | 22569/54706 [00:03\u003c00:04, 6604.12it/s]\r 43%|████▎     | 23285/54706 [00:04\u003c00:04, 6762.14it/s]\r 44%|████▍     | 24006/54706 [00:04\u003c00:04, 6889.73it/s]\r 45%|████▌     | 24701/54706 [00:04\u003c00:04, 6906.90it/s]\r 46%|████▋     | 25416/54706 [00:04\u003c00:04, 6976.19it/s]\r 48%|████▊     | 26136/54706 [00:04\u003c00:04, 7040.11it/s]\r 49%|████▉     | 26857/54706 [00:04\u003c00:03, 7088.11it/s]\r 50%|█████     | 27567/54706 [00:04\u003c00:03, 7069.81it/s]\r 52%|█████▏    | 28280/54706 [00:04\u003c00:03, 7085.29it/s]\r 53%|█████▎    | 28998/54706 [00:04\u003c00:03, 7112.05it/s]\r 54%|█████▍    | 29724/54706 [00:04\u003c00:03, 7154.28it/s]\r 56%|█████▌    | 30440/54706 [00:05\u003c00:03, 7131.03it/s]\r 57%|█████▋    | 31159/54706 [00:05\u003c00:03, 7148.50it/s]\r 58%|█████▊    | 31874/54706 [00:05\u003c00:03, 7143.26it/s]\r 60%|█████▉    | 32589/54706 [00:05\u003c00:03, 7129.20it/s]\r 61%|██████    | 33302/54706 [00:05\u003c00:03, 7075.99it/s]\r 62%|██████▏   | 34030/54706 [00:05\u003c00:02, 7134.53it/s]\r 64%|██████▎   | 34744/54706 [00:05\u003c00:02, 7097.57it/s]\r 65%|██████▍   | 35461/54706 [00:05\u003c00:02, 7119.00it/s]\r 66%|██████▌   | 36173/54706 [00:05\u003c00:02, 7102.12it/s]\r 67%|██████▋   | 36884/54706 [00:05\u003c00:02, 7085.63it/s]\r 69%|██████▊   | 37593/54706 [00:06\u003c00:02, 7047.59it/s]\r 70%|███████   | 38301/54706 [00:06\u003c00:02, 7055.44it/s]\r 71%|███████▏  | 39009/54706 [00:06\u003c00:02, 7061.07it/s]\r 73%|███████▎  | 39728/54706 [00:06\u003c00:02, 7098.33it/s]\r 74%|███████▍  | 40452/54706 [00:06\u003c00:01, 7138.18it/s]\r 75%|███████▌  | 41177/54706 [00:06\u003c00:01, 7170.19it/s]\r 77%|███████▋  | 41895/54706 [00:06\u003c00:01, 7150.35it/s]\r 78%|███████▊  | 42612/54706 [00:06\u003c00:01, 7155.70it/s]\r 79%|███████▉  | 43328/54706 [00:06\u003c00:01, 7126.58it/s]\r 81%|████████  | 44041/54706 [00:06\u003c00:01, 7112.54it/s]\r 82%|████████▏ | 44756/54706 [00:07\u003c00:01, 7120.92it/s]\r 83%|████████▎ | 45469/54706 [00:07\u003c00:01, 7123.13it/s]\r 84%|████████▍ | 46182/54706 [00:07\u003c00:01, 7101.06it/s]\r 86%|████████▌ | 46903/54706 [00:07\u003c00:01, 7130.97it/s]\r 87%|████████▋ | 47617/54706 [00:07\u003c00:00, 7112.60it/s]\r 88%|████████▊ | 48329/54706 [00:07\u003c00:00, 6912.78it/s]\r 90%|████████▉ | 49022/54706 [00:07\u003c00:00, 6768.06it/s]\r 91%|█████████ | 49701/54706 [00:07\u003c00:00, 6744.17it/s]\r 92%|█████████▏| 50393/54706 [00:07\u003c00:00, 6793.42it/s]\r 93%|█████████▎| 51109/54706 [00:08\u003c00:00, 6900.28it/s]\r 95%|█████████▍| 51806/54706 [00:08\u003c00:00, 6920.58it/s]\r 96%|█████████▌| 52504/54706 [00:08\u003c00:00, 6936.60it/s]\r 97%|█████████▋| 53215/54706 [00:08\u003c00:00, 6987.08it/s]\r 99%|█████████▊| 53931/54706 [00:08\u003c00:00, 7036.20it/s]\r100%|█████████▉| 54652/54706 [00:08\u003c00:00, 7087.00it/s]\r100%|██████████| 54706/54706 [00:08\u003c00:00, 6413.45it/s]\n"}
+,{"stream_name":"stdout","time":85.420453531,"data":"\u001b[1m\u001b[91mRecords gathered in Site 1:\u001b[0m 29519 \n"}
+,{"stream_name":"stdout","time":85.420487279,"data":"\u001b[1m\u001b[91mRecords gathered in Site 2:\u001b[0m 25187\n"}
+,{"stream_name":"stdout","time":85.420497184,"data":"-------------------------------------------------\n"}
+,{"stream_name":"stdout","time":85.420503398,"data":"\u001b[1m\u001b[91mTotal unique patients:\u001b[0m 11913\n"}
+,{"stream_name":"stdout","time":85.42050875300001,"data":"-------------------------------------------------\n"}
+,{"stream_name":"stdout","time":85.420514073,"data":"\u001b[1m\u001b[91mTotal unique images:\u001b[0m 54706\n"}
+,{"stream_name":"stdout","time":85.420519287,"data":"-------------------------------------------------\n"}
+,{"stream_name":"stdout","time":85.420524449,"data":"\u001b[1m\u001b[91mStatistics: Images per Patient\u001b[0m\n"}
+,{"stream_name":"stdout","time":85.420529709,"data":"count    11913.000000\n"}
+,{"stream_name":"stdout","time":85.420534695,"data":"mean         4.592126\n"}
+,{"stream_name":"stdout","time":85.420539969,"data":"std          1.133216\n"}
+,{"stream_name":"stdout","time":85.420553096,"data":"min          4.000000\n"}
+,{"stream_name":"stdout","time":85.420558373,"data":"25%          4.000000\n"}
+,{"stream_name":"stdout","time":85.420565366,"data":"50%          4.000000\n"}
+,{"stream_name":"stdout","time":85.420576443,"data":"75%          5.000000\n"}
+,{"stream_name":"stdout","time":85.420583733,"data":"max         14.000000\n"}
+,{"stream_name":"stdout","time":85.420588932,"data":"Name: image_id, dtype: float64\n"}
+,{"stream_name":"stdout","time":85.42059394,"data":"-------------------------------------------------\n"}
+,{"stream_name":"stdout","time":85.420598907,"data":"\u001b[1m\u001b[91mImage records count per laterality (R):\u001b[0m 27439 \n"}
+,{"stream_name":"stdout","time":85.42060463,"data":"\u001b[1m\u001b[91mImage records count per laterality (L):\u001b[0m 27267\n"}
+,{"stream_name":"stdout","time":85.420609707,"data":"-------------------------------------------------\n"}
+,{"stream_name":"stdout","time":85.42061483,"data":"\u001b[1m\u001b[91mImage records count per View:\u001b[0m\n"}
+,{"stream_name":"stdout","time":85.420620272,"data":"MLO    27903\n"}
+,{"stream_name":"stdout","time":85.420625184,"data":"CC     26765\n"}
+,{"stream_name":"stdout","time":85.420630191,"data":"AT        19\n"}
+,{"stream_name":"stdout","time":85.420635173,"data":"LM        10\n"}
+,{"stream_name":"stdout","time":85.420640647,"data":"ML         8\n"}
+,{"stream_name":"stdout","time":85.420646352,"data":"LMO        1\n"}
+,{"stream_name":"stdout","time":85.420655007,"data":"Name: view, dtype: int64\n"}
+,{"stream_name":"stdout","time":226.205034225,"data":"\u001b[1m\u001b[91mRecords with no implants:\u001b[0m 53229 \n"}
+,{"stream_name":"stdout","time":226.205245403,"data":"\u001b[1m\u001b[91mRecords with implants:\u001b[0m 1477 \n"}
+,{"stream_name":"stdout","time":226.205287036,"data":"\n"}
+,{"stream_name":"stdout","time":282.105466176,"data":"\u001b[1m\u001b[91mRecords with no cancer:\u001b[0m 53548 \n"}
+,{"stream_name":"stdout","time":282.1055597,"data":"\u001b[1m\u001b[91mRecords with cancer:\u001b[0m 1158 \n"}
+,{"stream_name":"stdout","time":282.105674159,"data":"\n"}
+,{"stream_name":"stdout","time":305.039185357,"data":"\u001b[1m\u001b[91mRecords with invasion:\u001b[0m 818 \n"}
+,{"stream_name":"stdout","time":305.039244859,"data":"\u001b[1m\u001b[91mRecords with no invasion:\u001b[0m 340 \n"}
+,{"stream_name":"stdout","time":305.039253875,"data":"\n"}
+,{"stream_name":"stdout","time":324.759583714,"data":"\u001b[1m\u001b[91mCases not particularly difficult:\u001b[0m 47001 \n"}
+,{"stream_name":"stdout","time":324.759633482,"data":"\u001b[1m\u001b[91mCases particularly difficult:\u001b[0m 7705 \n"}
+,{"stream_name":"stdout","time":324.759643927,"data":"\n"}
+,{"stream_name":"stdout","time":348.943598484,"data":"\u001b[1m\u001b[91mNumber of missing values in Age:\u001b[0m 37\n"}
+,{"stream_name":"stdout","time":390.355001525,"data":"Artifact has been saved successfully.\n"}
+,{"stream_name":"stdout","time":401.909787801,"data":"\u001b[33mWARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv\u001b[0m\u001b[33m\r\n"}
+,{"stream_name":"stdout","time":405.189969469,"data":"\u001b[0mDevice available now: cuda\n"}
+,{"stream_name":"stdout","time":414.934006669,"data":"\u001b[1m\u001b[91mBatch: 0\u001b[0m \n"}
+,{"stream_name":"stdout","time":414.934053201,"data":"\u001b[1m\u001b[91mImage:\u001b[0m torch.Size([3, 3, 224, 224]) \n"}
+,{"stream_name":"stdout","time":414.934081523,"data":"\u001b[1m\u001b[91mMeta:\u001b[0m tensor([[ 0.,  1., 61.,  0.],\n"}
+,{"stream_name":"stdout","time":414.934090942,"data":"        [ 0.,  5., 61.,  0.],\n"}
+,{"stream_name":"stdout","time":414.934096683,"data":"        [ 1.,  5., 61.,  0.]], device='cuda:0') \n"}
+,{"stream_name":"stdout","time":414.934102575,"data":"\u001b[1m\u001b[91mTargets:\u001b[0m tensor([0, 0, 0], device='cuda:0') \n"}
+,{"stream_name":"stdout","time":414.934107744,"data":"==================================================\n"}
+,{"stream_name":"stdout","time":415.805859406,"data":"\u001b[1m\u001b[91mBatch: 1\u001b[0m \n"}
+,{"stream_name":"stdout","time":415.805900957,"data":"\u001b[1m\u001b[91mImage:\u001b[0m torch.Size([3, 3, 224, 224]) \n"}
+,{"stream_name":"stdout","time":415.805908804,"data":"\u001b[1m\u001b[91mMeta:\u001b[0m tensor([[ 1.,  1., 61.,  0.],\n"}
+,{"stream_name":"stdout","time":415.805914842,"data":"        [ 0.,  1., 55.,  0.],\n"}
+,{"stream_name":"stdout","time":415.805920695,"data":"        [ 0.,  5., 55.,  0.]], device='cuda:0') \n"}
+,{"stream_name":"stdout","time":415.805926623,"data":"\u001b[1m\u001b[91mTargets:\u001b[0m tensor([0, 0, 0], device='cuda:0') \n"}
+,{"stream_name":"stdout","time":415.805932575,"data":"==================================================\n"}
+,{"stream_name":"stderr","time":417.116316564,"data":"Downloading: \"https://download.pytorch.org/models/resnet50-0676ba61.pth\" to /root/.cache/torch/hub/checkpoints/resnet50-0676ba61.pth\n"}
+,{"stream_name":"stdout","time":424.543704244,"data":"Input Image shape: torch.Size([3, 3, 224, 224]) \n"}
+,{"stream_name":"stdout","time":424.54374793,"data":"Input metadata shape: torch.Size([3, 4])\n"}
+,{"stream_name":"stdout","time":430.7532566,"data":"Features Image shape: torch.Size([3, 1000])\n"}
+,{"stream_name":"stdout","time":430.753305468,"data":"Meta Data: torch.Size([3, 500])\n"}
+,{"stream_name":"stdout","time":430.753319796,"data":"Concatenated Data: torch.Size([3, 1500])\n"}
+,{"stream_name":"stdout","time":430.753329068,"data":"Out shape: torch.Size([3, 1])\n"}
+,{"stream_name":"stdout","time":430.753335259,"data":"==================================================\n"}
+,{"stream_name":"stdout","time":430.75334145,"data":"\u001b[1m\u001b[91mLoss:\u001b[0m 0.819853663444519\n"}
+,{"stream_name":"stderr","time":431.941239761,"data":"Downloading: \"https://github.com/lukemelas/EfficientNet-PyTorch/releases/download/1.0/efficientnet-b2-8bb594d6.pth\" to /root/.cache/torch/hub/checkpoints/efficientnet-b2-8bb594d6.pth\n"}
+,{"stream_name":"stdout","time":432.529783371,"data":"Loaded pretrained weights for efficientnet-b2\n"}
+,{"stream_name":"stdout","time":432.529822377,"data":"Input Image shape: torch.Size([3, 3, 224, 224]) \n"}
+,{"stream_name":"stdout","time":432.52983302,"data":"Input metadata shape: torch.Size([3, 4])\n"}
+,{"stream_name":"stdout","time":432.529839202,"data":"Features Image shape: torch.Size([3, 1408])\n"}
+,{"stream_name":"stdout","time":432.529851402,"data":"Meta Data: torch.Size([3, 250])\n"}
+,{"stream_name":"stdout","time":432.529857492,"data":"Concatenated Data: torch.Size([3, 1658])\n"}
+,{"stream_name":"stdout","time":432.529862999,"data":"Out shape: torch.Size([3, 1])\n"}
+,{"stream_name":"stdout","time":432.529869028,"data":"==================================================\n"}
+,{"stream_name":"stdout","time":432.529875084,"data":"\u001b[1m\u001b[91mLoss:\u001b[0m 0.6973735690116882\n"}
+,{"stream_name":"stdout","time":434.386260509,"data":"---------- Fold: 1 ----------\n"}
+,{"stream_name":"stdout","time":434.386339614,"data":"1:11:22 | Epoch: 1/3 | Loss: 132.3 | Acc_tr: 0.978 | Acc_vd: 0.98 | ROC: 0.648\n"}
+,{"stream_name":"stdout","time":434.386399211,"data":"1:09:04 | Epoch: 2/3 | Loss: 120.4 | Acc_tr: 0.978 | Acc_vd: 0.98 | ROC: 0.657\n"}
+,{"stream_name":"stdout","time":434.386413914,"data":"1:08:46 | Epoch: 3/3 | Loss: 119.7 | Acc_tr: 0.978 | Acc_vd: 0.98 | ROC: 0.579\n"}
+,{"stream_name":"stdout","time":434.386420593,"data":"---------- Fold: 2 ----------\n"}
+,{"stream_name":"stdout","time":434.386425806,"data":"1:09:13 | Epoch: 1/3 | Loss: 119.9 | Acc_tr: 0.978 | Acc_vd: 0.98 | ROC: 0.626\n"}
+,{"stream_name":"stdout","time":434.386430872,"data":"1:09:11 | Epoch: 2/3 | Loss: 121.8 | Acc_tr: 0.978 | Acc_vd: 0.98 | ROC: 0.6\n"}
+,{"stream_name":"stdout","time":434.386435736,"data":"1:09:15 | Epoch: 3/3 | Loss: 119.2 | Acc_tr: 0.978 | Acc_vd: 0.98 | ROC: 0.582\n"}
+,{"stream_name":"stdout","time":434.386439368,"data":"---------- Fold: 3 ----------\n"}
+,{"stream_name":"stdout","time":434.386442938,"data":"1:09:32 | Epoch: 1/3 | Loss: 112.0 | Acc_tr: 0.98 | Acc_vd: 0.976 | ROC: 0.621\n"}
+,{"stream_name":"stdout","time":434.386446277,"data":"1:09:05 | Epoch: 2/3 | Loss: 111.7 | Acc_tr: 0.98 | Acc_vd: 0.976 | ROC: 0.67\n"}
+,{"stream_name":"stdout","time":434.386449739,"data":"1:09:09 | Epoch: 3/3 | Loss: 111.5 | Acc_tr: 0.98 | Acc_vd: 0.976 | ROC: 0.675\n"}
+,{"stream_name":"stdout","time":434.3864531,"data":"\n"}
+,{"stream_name":"stderr","time":440.688634196,"data":"/opt/conda/lib/python3.7/site-packages/traitlets/traitlets.py:2758: FutureWarning: --Exporter.preprocessors=[\"remove_papermill_header.RemovePapermillHeader\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":440.68867241,"data":"  FutureWarning,\n"}
+,{"stream_name":"stderr","time":440.688683196,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":441.095419707,"data":"[NbConvertApp] Writing 4465783 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":443.499898466,"data":"/opt/conda/lib/python3.7/site-packages/traitlets/traitlets.py:2758: FutureWarning: --Exporter.preprocessors=[\"nbconvert.preprocessors.ExtractOutputPreprocessor\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":443.500007364,"data":"  FutureWarning,\n"}
+,{"stream_name":"stderr","time":443.500130177,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":444.428168568,"data":"[NbConvertApp] Support files will be in __results___files/\n"}
+,{"stream_name":"stderr","time":444.428463814,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":444.429070247,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":444.429657203,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":444.430218413,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":444.430835941,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":444.431307958,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":444.431937699,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":444.432237469,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":444.432604549,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":444.432981155,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":444.433507142,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":444.43391612,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":444.434453501,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":444.43500952,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":444.435490788,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":444.436009472,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":444.436536632,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":444.437075698,"data":"[NbConvertApp] Writing 565483 bytes to __results__.html\n"}
+]

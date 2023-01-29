@@ -1,0 +1,182 @@
+2023-01-06 10:45:13,444 INFO    MainThread:80 [internal.py:wandb_internal():93] W&B internal server running at pid: 80, started at: 2023-01-06 10:45:13.444135
+2023-01-06 10:45:13,448 INFO    WriterThread:80 [datastore.py:open_for_write():75] open: /kaggle/working/wandb/run-20230106_104511-ttd51ti1/run-ttd51ti1.wandb
+2023-01-06 10:45:13,448 DEBUG   SenderThread:80 [sender.py:send():236] send: header
+2023-01-06 10:45:13,448 DEBUG   SenderThread:80 [sender.py:send():236] send: run
+2023-01-06 10:45:13,554 DEBUG   HandlerThread:80 [handler.py:handle_request():140] handle_request: check_version
+2023-01-06 10:45:13,559 INFO    SenderThread:80 [dir_watcher.py:__init__():216] watching files in: /kaggle/working/wandb/run-20230106_104511-ttd51ti1/files
+2023-01-06 10:45:13,559 INFO    SenderThread:80 [sender.py:_start_run_threads():818] run started: ttd51ti1 with start time 1673001911
+2023-01-06 10:45:13,559 DEBUG   SenderThread:80 [sender.py:send():236] send: summary
+2023-01-06 10:45:13,559 INFO    SenderThread:80 [sender.py:_save_file():952] saving file wandb-summary.json with policy end
+2023-01-06 10:45:13,559 DEBUG   SenderThread:80 [sender.py:send_request():250] send_request: check_version
+2023-01-06 10:45:13,625 DEBUG   HandlerThread:80 [handler.py:handle_request():140] handle_request: run_start
+2023-01-06 10:45:13,628 DEBUG   HandlerThread:80 [meta.py:__init__():35] meta init
+2023-01-06 10:45:13,628 DEBUG   HandlerThread:80 [meta.py:__init__():49] meta init done
+2023-01-06 10:45:13,628 DEBUG   HandlerThread:80 [meta.py:probe():209] probe
+2023-01-06 10:45:13,635 DEBUG   HandlerThread:80 [git.py:repo():29] git repository is invalid
+2023-01-06 10:45:13,635 DEBUG   HandlerThread:80 [meta.py:_save_code():87] save code
+2023-01-06 10:45:13,635 WARNING HandlerThread:80 [meta.py:_save_code():89] unable to save code -- program entry not found
+2023-01-06 10:45:13,635 DEBUG   HandlerThread:80 [meta.py:_save_pip():53] save pip
+2023-01-06 10:45:13,636 DEBUG   HandlerThread:80 [meta.py:_save_pip():67] save pip done
+2023-01-06 10:45:13,637 DEBUG   HandlerThread:80 [meta.py:_save_conda():74] save conda
+2023-01-06 10:45:14,561 INFO    Thread-7  :80 [dir_watcher.py:_on_file_created():269] file/dir created: /kaggle/working/wandb/run-20230106_104511-ttd51ti1/files/wandb-summary.json
+2023-01-06 10:45:14,562 INFO    Thread-7  :80 [dir_watcher.py:_on_file_created():269] file/dir created: /kaggle/working/wandb/run-20230106_104511-ttd51ti1/files/requirements.txt
+2023-01-06 10:45:14,562 INFO    Thread-7  :80 [dir_watcher.py:_on_file_created():269] file/dir created: /kaggle/working/wandb/run-20230106_104511-ttd51ti1/files/conda-environment.yaml
+2023-01-06 10:45:19,564 INFO    Thread-7  :80 [dir_watcher.py:_on_file_created():269] file/dir created: /kaggle/working/wandb/run-20230106_104511-ttd51ti1/files/output.log
+2023-01-06 10:45:20,564 INFO    Thread-7  :80 [dir_watcher.py:_on_file_created():269] file/dir created: /kaggle/working/wandb/run-20230106_104511-ttd51ti1/files/media/images/cover_0_2b50d2d2d2d8be2e8d7c.png
+2023-01-06 10:45:20,565 INFO    Thread-7  :80 [dir_watcher.py:_on_file_created():269] file/dir created: /kaggle/working/wandb/run-20230106_104511-ttd51ti1/files/code/_session_history.ipynb
+2023-01-06 10:45:20,565 INFO    Thread-7  :80 [dir_watcher.py:_on_file_created():269] file/dir created: /kaggle/working/wandb/run-20230106_104511-ttd51ti1/files/media
+2023-01-06 10:45:20,565 INFO    Thread-7  :80 [dir_watcher.py:_on_file_created():269] file/dir created: /kaggle/working/wandb/run-20230106_104511-ttd51ti1/files/media/images
+2023-01-06 10:45:20,565 INFO    Thread-7  :80 [dir_watcher.py:_on_file_created():269] file/dir created: /kaggle/working/wandb/run-20230106_104511-ttd51ti1/files/code
+2023-01-06 10:45:49,590 INFO    Thread-7  :80 [dir_watcher.py:_on_file_modified():286] file/dir modified: /kaggle/working/wandb/run-20230106_104511-ttd51ti1/files/conda-environment.yaml
+2023-01-06 10:45:49,846 DEBUG   HandlerThread:80 [meta.py:_save_conda():84] save conda done
+2023-01-06 10:45:49,847 DEBUG   HandlerThread:80 [meta.py:probe():247] probe done
+2023-01-06 10:45:50,144 DEBUG   HandlerThread:80 [handler.py:handle_request():140] handle_request: stop_status
+2023-01-06 10:45:50,145 DEBUG   SenderThread:80 [sender.py:send_request():250] send_request: stop_status
+2023-01-06 10:45:50,148 DEBUG   HandlerThread:80 [handler.py:handle_request():140] handle_request: partial_history
+2023-01-06 10:45:50,150 DEBUG   HandlerThread:80 [handler.py:handle_request():140] handle_request: log_artifact
+2023-01-06 10:45:50,150 DEBUG   HandlerThread:80 [handler.py:handle_request():140] handle_request: poll_exit
+2023-01-06 10:45:50,151 DEBUG   HandlerThread:80 [handler.py:handle_request():140] handle_request: poll_exit
+2023-01-06 10:45:50,151 DEBUG   HandlerThread:80 [handler.py:handle_request():140] handle_request: poll_exit
+2023-01-06 10:45:50,151 DEBUG   HandlerThread:80 [handler.py:handle_request():140] handle_request: poll_exit
+2023-01-06 10:45:50,151 DEBUG   HandlerThread:80 [handler.py:handle_request():140] handle_request: poll_exit
+2023-01-06 10:45:50,151 DEBUG   HandlerThread:80 [handler.py:handle_request():140] handle_request: poll_exit
+2023-01-06 10:45:50,208 DEBUG   SenderThread:80 [sender.py:send():236] send: telemetry
+2023-01-06 10:45:50,208 DEBUG   SenderThread:80 [sender.py:send():236] send: files
+2023-01-06 10:45:50,208 INFO    SenderThread:80 [sender.py:_save_file():952] saving file media/images/cover_0_2b50d2d2d2d8be2e8d7c.png with policy now
+2023-01-06 10:45:50,209 DEBUG   SenderThread:80 [sender.py:send():236] send: history
+2023-01-06 10:45:50,209 DEBUG   SenderThread:80 [sender.py:send():236] send: summary
+2023-01-06 10:45:50,211 INFO    SenderThread:80 [sender.py:_save_file():952] saving file wandb-summary.json with policy end
+2023-01-06 10:45:50,212 DEBUG   SenderThread:80 [sender.py:send():236] send: telemetry
+2023-01-06 10:45:50,212 DEBUG   SenderThread:80 [sender.py:send():236] send: config
+2023-01-06 10:45:50,212 DEBUG   SenderThread:80 [sender.py:send_request():250] send_request: log_artifact
+2023-01-06 10:45:50,587 INFO    Thread-11 :80 [upload_job.py:push():138] Uploaded file /tmp/tmpb5tajuwawandb/3ta7ahbg-media/images/cover_0_2b50d2d2d2d8be2e8d7c.png
+2023-01-06 10:45:50,590 INFO    Thread-7  :80 [dir_watcher.py:_on_file_modified():286] file/dir modified: /kaggle/working/wandb/run-20230106_104511-ttd51ti1/files/wandb-summary.json
+2023-01-06 10:45:50,590 INFO    Thread-7  :80 [dir_watcher.py:_on_file_created():269] file/dir created: /kaggle/working/wandb/run-20230106_104511-ttd51ti1/files/wandb-metadata.json
+2023-01-06 10:45:50,915 INFO    Thread-13 :80 [upload_job.py:push():96] Uploaded file /root/.cache/wandb/artifacts/obj/md5/2c/2636bce059d6312725f3dac71d1c04
+2023-01-06 10:45:50,982 INFO    Thread-14 :80 [upload_job.py:push():96] Uploaded file /root/.cache/wandb/artifacts/obj/md5/cf/54ae807a3ba40b6144166df19a9d29
+2023-01-06 10:45:51,694 INFO    SenderThread:80 [sender.py:send_request_log_artifact():1009] logged artifact source-ttd51ti1 - {'id': 'QXJ0aWZhY3Q6MzE1MDY1MTg3', 'digest': '76570839fcc73f26b03e58399f06b31d', 'state': 'PENDING', 'aliases': [], 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjQ4ODMyOTU5', 'latestArtifact': None}, 'version': 'latest'}
+2023-01-06 10:45:51,694 DEBUG   SenderThread:80 [sender.py:send():236] send: telemetry
+2023-01-06 10:45:51,694 DEBUG   SenderThread:80 [sender.py:send():236] send: exit
+2023-01-06 10:45:51,694 INFO    SenderThread:80 [sender.py:send_exit():372] handling exit code: 0
+2023-01-06 10:45:51,694 INFO    SenderThread:80 [sender.py:send_exit():374] handling runtime: 36
+2023-01-06 10:45:51,695 INFO    SenderThread:80 [sender.py:_save_file():952] saving file wandb-summary.json with policy end
+2023-01-06 10:45:51,695 INFO    SenderThread:80 [sender.py:send_exit():380] send defer
+2023-01-06 10:45:51,695 DEBUG   SenderThread:80 [sender.py:send_request():250] send_request: poll_exit
+2023-01-06 10:45:51,695 DEBUG   SenderThread:80 [sender.py:send_request():250] send_request: poll_exit
+2023-01-06 10:45:51,696 DEBUG   SenderThread:80 [sender.py:send_request():250] send_request: poll_exit
+2023-01-06 10:45:51,696 DEBUG   SenderThread:80 [sender.py:send_request():250] send_request: poll_exit
+2023-01-06 10:45:51,696 DEBUG   SenderThread:80 [sender.py:send():236] send: stats
+2023-01-06 10:45:51,696 DEBUG   SenderThread:80 [sender.py:send_request():250] send_request: poll_exit
+2023-01-06 10:45:51,697 DEBUG   SenderThread:80 [sender.py:send_request():250] send_request: poll_exit
+2023-01-06 10:45:51,697 DEBUG   HandlerThread:80 [handler.py:handle_request():140] handle_request: defer
+2023-01-06 10:45:51,697 DEBUG   SenderThread:80 [sender.py:send():236] send: files
+2023-01-06 10:45:51,698 INFO    HandlerThread:80 [handler.py:handle_request_defer():163] handle defer: 0
+2023-01-06 10:45:51,698 INFO    SenderThread:80 [sender.py:_save_file():952] saving file wandb-metadata.json with policy now
+2023-01-06 10:45:51,699 DEBUG   SenderThread:80 [sender.py:send_request():250] send_request: defer
+2023-01-06 10:45:51,699 INFO    SenderThread:80 [sender.py:send_request_defer():389] handle sender defer: 0
+2023-01-06 10:45:51,699 INFO    SenderThread:80 [sender.py:transition_state():393] send defer: 1
+2023-01-06 10:45:51,704 DEBUG   HandlerThread:80 [handler.py:handle_request():140] handle_request: defer
+2023-01-06 10:45:51,704 INFO    HandlerThread:80 [handler.py:handle_request_defer():163] handle defer: 1
+2023-01-06 10:45:51,750 DEBUG   SenderThread:80 [sender.py:send_request():250] send_request: defer
+2023-01-06 10:45:51,750 INFO    SenderThread:80 [sender.py:send_request_defer():389] handle sender defer: 1
+2023-01-06 10:45:51,750 INFO    SenderThread:80 [sender.py:transition_state():393] send defer: 2
+2023-01-06 10:45:51,750 DEBUG   SenderThread:80 [sender.py:send():236] send: stats
+2023-01-06 10:45:51,751 DEBUG   HandlerThread:80 [handler.py:handle_request():140] handle_request: defer
+2023-01-06 10:45:51,751 INFO    HandlerThread:80 [handler.py:handle_request_defer():163] handle defer: 2
+2023-01-06 10:45:51,751 DEBUG   SenderThread:80 [sender.py:send_request():250] send_request: defer
+2023-01-06 10:45:51,751 INFO    SenderThread:80 [sender.py:send_request_defer():389] handle sender defer: 2
+2023-01-06 10:45:51,751 INFO    SenderThread:80 [sender.py:transition_state():393] send defer: 3
+2023-01-06 10:45:51,752 DEBUG   HandlerThread:80 [handler.py:handle_request():140] handle_request: defer
+2023-01-06 10:45:51,752 INFO    HandlerThread:80 [handler.py:handle_request_defer():163] handle defer: 3
+2023-01-06 10:45:51,752 DEBUG   SenderThread:80 [sender.py:send_request():250] send_request: defer
+2023-01-06 10:45:51,752 INFO    SenderThread:80 [sender.py:send_request_defer():389] handle sender defer: 3
+2023-01-06 10:45:51,752 INFO    SenderThread:80 [sender.py:transition_state():393] send defer: 4
+2023-01-06 10:45:51,752 DEBUG   HandlerThread:80 [handler.py:handle_request():140] handle_request: defer
+2023-01-06 10:45:51,752 INFO    HandlerThread:80 [handler.py:handle_request_defer():163] handle defer: 4
+2023-01-06 10:45:51,753 DEBUG   SenderThread:80 [sender.py:send():236] send: summary
+2023-01-06 10:45:51,753 INFO    SenderThread:80 [sender.py:_save_file():952] saving file wandb-summary.json with policy end
+2023-01-06 10:45:51,753 DEBUG   SenderThread:80 [sender.py:send_request():250] send_request: defer
+2023-01-06 10:45:51,753 INFO    SenderThread:80 [sender.py:send_request_defer():389] handle sender defer: 4
+2023-01-06 10:45:51,753 INFO    SenderThread:80 [sender.py:transition_state():393] send defer: 5
+2023-01-06 10:45:51,753 DEBUG   HandlerThread:80 [handler.py:handle_request():140] handle_request: defer
+2023-01-06 10:45:51,753 INFO    HandlerThread:80 [handler.py:handle_request_defer():163] handle defer: 5
+2023-01-06 10:45:51,754 DEBUG   SenderThread:80 [sender.py:send_request():250] send_request: defer
+2023-01-06 10:45:51,754 INFO    SenderThread:80 [sender.py:send_request_defer():389] handle sender defer: 5
+2023-01-06 10:45:51,800 DEBUG   HandlerThread:80 [handler.py:handle_request():140] handle_request: poll_exit
+2023-01-06 10:45:51,840 INFO    SenderThread:80 [sender.py:transition_state():393] send defer: 6
+2023-01-06 10:45:51,841 DEBUG   SenderThread:80 [sender.py:send_request():250] send_request: poll_exit
+2023-01-06 10:45:51,841 DEBUG   HandlerThread:80 [handler.py:handle_request():140] handle_request: defer
+2023-01-06 10:45:51,841 INFO    HandlerThread:80 [handler.py:handle_request_defer():163] handle defer: 6
+2023-01-06 10:45:51,841 DEBUG   SenderThread:80 [sender.py:send_request():250] send_request: defer
+2023-01-06 10:45:51,841 INFO    SenderThread:80 [sender.py:send_request_defer():389] handle sender defer: 6
+2023-01-06 10:45:51,842 INFO    SenderThread:80 [dir_watcher.py:finish():353] shutting down directory watcher
+2023-01-06 10:45:51,943 DEBUG   HandlerThread:80 [handler.py:handle_request():140] handle_request: poll_exit
+2023-01-06 10:45:52,304 INFO    Thread-15 :80 [upload_job.py:push():138] Uploaded file /tmp/tmpb5tajuwawandb/16lfxgk9-wandb-metadata.json
+2023-01-06 10:45:52,591 INFO    SenderThread:80 [dir_watcher.py:_on_file_modified():286] file/dir modified: /kaggle/working/wandb/run-20230106_104511-ttd51ti1/files/config.yaml
+2023-01-06 10:45:52,591 INFO    SenderThread:80 [dir_watcher.py:_on_file_modified():286] file/dir modified: /kaggle/working/wandb/run-20230106_104511-ttd51ti1/files/wandb-summary.json
+2023-01-06 10:45:52,592 INFO    SenderThread:80 [dir_watcher.py:finish():383] scan: /kaggle/working/wandb/run-20230106_104511-ttd51ti1/files
+2023-01-06 10:45:52,592 INFO    SenderThread:80 [dir_watcher.py:finish():397] scan save: /kaggle/working/wandb/run-20230106_104511-ttd51ti1/files/conda-environment.yaml conda-environment.yaml
+2023-01-06 10:45:52,592 INFO    SenderThread:80 [dir_watcher.py:finish():397] scan save: /kaggle/working/wandb/run-20230106_104511-ttd51ti1/files/requirements.txt requirements.txt
+2023-01-06 10:45:52,592 INFO    SenderThread:80 [dir_watcher.py:finish():397] scan save: /kaggle/working/wandb/run-20230106_104511-ttd51ti1/files/wandb-metadata.json wandb-metadata.json
+2023-01-06 10:45:52,592 INFO    SenderThread:80 [dir_watcher.py:finish():397] scan save: /kaggle/working/wandb/run-20230106_104511-ttd51ti1/files/wandb-summary.json wandb-summary.json
+2023-01-06 10:45:52,599 INFO    SenderThread:80 [dir_watcher.py:finish():397] scan save: /kaggle/working/wandb/run-20230106_104511-ttd51ti1/files/config.yaml config.yaml
+2023-01-06 10:45:52,599 INFO    SenderThread:80 [dir_watcher.py:finish():397] scan save: /kaggle/working/wandb/run-20230106_104511-ttd51ti1/files/output.log output.log
+2023-01-06 10:45:52,608 INFO    SenderThread:80 [dir_watcher.py:finish():397] scan save: /kaggle/working/wandb/run-20230106_104511-ttd51ti1/files/media/images/cover_0_2b50d2d2d2d8be2e8d7c.png media/images/cover_0_2b50d2d2d2d8be2e8d7c.png
+2023-01-06 10:45:52,608 INFO    SenderThread:80 [dir_watcher.py:finish():397] scan save: /kaggle/working/wandb/run-20230106_104511-ttd51ti1/files/code/_session_history.ipynb code/_session_history.ipynb
+2023-01-06 10:45:52,608 INFO    SenderThread:80 [sender.py:transition_state():393] send defer: 7
+2023-01-06 10:45:52,608 DEBUG   SenderThread:80 [sender.py:send_request():250] send_request: poll_exit
+2023-01-06 10:45:52,621 DEBUG   HandlerThread:80 [handler.py:handle_request():140] handle_request: defer
+2023-01-06 10:45:52,621 INFO    HandlerThread:80 [handler.py:handle_request_defer():163] handle defer: 7
+2023-01-06 10:45:52,621 DEBUG   SenderThread:80 [sender.py:send_request():250] send_request: defer
+2023-01-06 10:45:52,621 INFO    SenderThread:80 [sender.py:send_request_defer():389] handle sender defer: 7
+2023-01-06 10:45:52,621 INFO    SenderThread:80 [file_pusher.py:finish():171] shutting down file pusher
+2023-01-06 10:45:52,713 DEBUG   HandlerThread:80 [handler.py:handle_request():140] handle_request: poll_exit
+2023-01-06 10:45:52,715 DEBUG   SenderThread:80 [sender.py:send_request():250] send_request: poll_exit
+2023-01-06 10:45:52,818 DEBUG   HandlerThread:80 [handler.py:handle_request():140] handle_request: poll_exit
+2023-01-06 10:45:52,818 DEBUG   SenderThread:80 [sender.py:send_request():250] send_request: poll_exit
+2023-01-06 10:45:52,920 DEBUG   HandlerThread:80 [handler.py:handle_request():140] handle_request: poll_exit
+2023-01-06 10:45:52,920 DEBUG   SenderThread:80 [sender.py:send_request():250] send_request: poll_exit
+2023-01-06 10:45:52,970 INFO    Thread-19 :80 [upload_job.py:push():138] Uploaded file /kaggle/working/wandb/run-20230106_104511-ttd51ti1/files/config.yaml
+2023-01-06 10:45:53,022 DEBUG   HandlerThread:80 [handler.py:handle_request():140] handle_request: poll_exit
+2023-01-06 10:45:53,022 DEBUG   SenderThread:80 [sender.py:send_request():250] send_request: poll_exit
+2023-01-06 10:45:53,049 INFO    Thread-20 :80 [upload_job.py:push():138] Uploaded file /kaggle/working/wandb/run-20230106_104511-ttd51ti1/files/code/_session_history.ipynb
+2023-01-06 10:45:53,051 INFO    Thread-16 :80 [upload_job.py:push():138] Uploaded file /kaggle/working/wandb/run-20230106_104511-ttd51ti1/files/conda-environment.yaml
+2023-01-06 10:45:53,123 DEBUG   HandlerThread:80 [handler.py:handle_request():140] handle_request: poll_exit
+2023-01-06 10:45:53,123 DEBUG   SenderThread:80 [sender.py:send_request():250] send_request: poll_exit
+2023-01-06 10:45:53,149 INFO    Thread-18 :80 [upload_job.py:push():138] Uploaded file /kaggle/working/wandb/run-20230106_104511-ttd51ti1/files/wandb-summary.json
+2023-01-06 10:45:53,215 INFO    Thread-17 :80 [upload_job.py:push():138] Uploaded file /kaggle/working/wandb/run-20230106_104511-ttd51ti1/files/requirements.txt
+2023-01-06 10:45:53,224 DEBUG   HandlerThread:80 [handler.py:handle_request():140] handle_request: poll_exit
+2023-01-06 10:45:53,225 DEBUG   SenderThread:80 [sender.py:send_request():250] send_request: poll_exit
+2023-01-06 10:45:53,326 DEBUG   HandlerThread:80 [handler.py:handle_request():140] handle_request: poll_exit
+2023-01-06 10:45:53,326 DEBUG   SenderThread:80 [sender.py:send_request():250] send_request: poll_exit
+2023-01-06 10:45:53,416 INFO    Thread-6  :80 [sender.py:transition_state():393] send defer: 8
+2023-01-06 10:45:53,416 DEBUG   HandlerThread:80 [handler.py:handle_request():140] handle_request: defer
+2023-01-06 10:45:53,417 INFO    HandlerThread:80 [handler.py:handle_request_defer():163] handle defer: 8
+2023-01-06 10:45:53,417 DEBUG   SenderThread:80 [sender.py:send_request():250] send_request: defer
+2023-01-06 10:45:53,417 INFO    SenderThread:80 [sender.py:send_request_defer():389] handle sender defer: 8
+2023-01-06 10:45:53,427 DEBUG   HandlerThread:80 [handler.py:handle_request():140] handle_request: poll_exit
+2023-01-06 10:45:53,482 INFO    SenderThread:80 [sender.py:transition_state():393] send defer: 9
+2023-01-06 10:45:53,482 DEBUG   SenderThread:80 [sender.py:send_request():250] send_request: poll_exit
+2023-01-06 10:45:53,482 DEBUG   HandlerThread:80 [handler.py:handle_request():140] handle_request: defer
+2023-01-06 10:45:53,482 INFO    HandlerThread:80 [handler.py:handle_request_defer():163] handle defer: 9
+2023-01-06 10:45:53,482 DEBUG   SenderThread:80 [sender.py:send_request():250] send_request: defer
+2023-01-06 10:45:53,482 INFO    SenderThread:80 [sender.py:send_request_defer():389] handle sender defer: 9
+2023-01-06 10:45:53,483 INFO    SenderThread:80 [sender.py:transition_state():393] send defer: 10
+2023-01-06 10:45:53,483 DEBUG   SenderThread:80 [sender.py:send():236] send: final
+2023-01-06 10:45:53,483 DEBUG   SenderThread:80 [sender.py:send():236] send: footer
+2023-01-06 10:45:53,484 DEBUG   HandlerThread:80 [handler.py:handle_request():140] handle_request: defer
+2023-01-06 10:45:53,484 INFO    HandlerThread:80 [handler.py:handle_request_defer():163] handle defer: 10
+2023-01-06 10:45:53,484 DEBUG   SenderThread:80 [sender.py:send_request():250] send_request: defer
+2023-01-06 10:45:53,484 INFO    SenderThread:80 [sender.py:send_request_defer():389] handle sender defer: 10
+2023-01-06 10:45:53,583 DEBUG   HandlerThread:80 [handler.py:handle_request():140] handle_request: poll_exit
+2023-01-06 10:45:53,583 DEBUG   SenderThread:80 [sender.py:send_request():250] send_request: poll_exit
+2023-01-06 10:45:53,583 INFO    SenderThread:80 [file_pusher.py:join():176] waiting for file pusher
+2023-01-06 10:45:53,754 DEBUG   HandlerThread:80 [handler.py:handle_request():140] handle_request: sampled_history
+2023-01-06 10:45:53,755 DEBUG   HandlerThread:80 [handler.py:handle_request():140] handle_request: get_summary
+2023-01-06 10:45:53,756 DEBUG   HandlerThread:80 [handler.py:handle_request():140] handle_request: shutdown
+2023-01-06 10:45:53,756 INFO    HandlerThread:80 [handler.py:finish():806] shutting down handler
+2023-01-06 10:45:54,483 INFO    WriterThread:80 [datastore.py:close():279] close: /kaggle/working/wandb/run-20230106_104511-ttd51ti1/run-ttd51ti1.wandb
+2023-01-06 10:45:54,653 INFO    SenderThread:80 [sender.py:finish():1114] shutting down sender
+2023-01-06 10:45:54,653 INFO    SenderThread:80 [file_pusher.py:finish():171] shutting down file pusher
+2023-01-06 10:45:54,653 INFO    SenderThread:80 [file_pusher.py:join():176] waiting for file pusher
+2023-01-06 10:45:54,654 INFO    MainThread:80 [internal.py:handle_exit():80] Internal process exited

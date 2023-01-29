@@ -1,4 +1,7 @@
-# directory and file name list to be ignored by managin git
+# ignore tracking the pathes below
 
+# input/: data downloaded from kaggle website  
 input/
-protos/
+
+# 
+
