@@ -3,5 +3,6 @@
 # input/: data downloaded from kaggle website  
 input/
 
-# 
+# protos/: notebooks downloaded from kaggle website to leran
 
+protos/
